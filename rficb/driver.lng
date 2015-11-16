@@ -1,0 +1,24 @@
+%%driver_author%en%%
+romanof
+%%driver_author%ru%%
+romanof
+
+%%driver_title%en%%
+rficb
+%%driver_title%ru%%
+rficb
+
+%%button_caption%en%%
+Payment via rficb
+%%button_caption%ru%%
+Оплата через rficb
+
+%%rfi_key%en%%
+Service key. Generated when creating payment button on rficb site.
+%%rfi_key%ru%%
+Ключ сервиса. Генерируется при создании кнопки оплаты на сайте rficb.
+
+%%secret_key%en%%
+Secret key. Is set in your service settings at rficb system.
+%%secret_key%ru%%
+Секретный ключ. Устанавливается в настройках Вашего сервиса в системе rficb.
